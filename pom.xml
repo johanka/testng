@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>se.sigma.tutorial</groupId>
+    <artifactId>test-ng</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>TestNG vs. JUnit</name>
+    <modules>
+        <module>junit-suite</module>
+        <module>ng-suite</module>
+    </modules>
+</project>

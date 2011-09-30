@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>se.sigma.tutorial.test-ng</groupId>
+    <artifactId>junit-suite</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <parent>
+        <groupId>se.sigma.tutorial</groupId>
+        <artifactId>test-ng</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <packaging>pom</packaging>
+    <name>JUnit suite</name>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.8.2</version>
+        </dependency>
+    </dependencies>
+</project>
